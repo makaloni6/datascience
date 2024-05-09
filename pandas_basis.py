@@ -22,3 +22,4 @@ print(df['longitude'])
 # df.loc[:, 'B'] #B列の値
 
 # df.iloc[1, 2] #1行2列目の値
+
