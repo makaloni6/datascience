@@ -13,7 +13,7 @@ y = df[y_label]
 # 調整
 fig = plt.figure(figsize = (8,8))
 ax = fig.add_subplot(1, 1, 1) #キャンバス
-ax.scatter(x, y, c='red');
+ax.scatter(x, y, c='green');
 ax.set_title('1st scatter')
 ax.set_xlabel(x_label)
 ax.set_ylabel(y_label)
