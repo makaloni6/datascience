@@ -17,4 +17,5 @@ ax.scatter(x, y, c='green');
 ax.set_title('1st scatter')
 ax.set_xlabel(x_label)
 ax.set_ylabel(y_label)
+plt.legend()
 plt.show()
